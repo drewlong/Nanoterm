@@ -5,7 +5,7 @@ I wanted to create a tiny terminal emulator that was extensible enough to use in
 
 I wrote this with PlatformIO in mind, but this could easily be used with the Arduino IDE with minimal tweaking. 
 
-
+An example of usage can be found in [this ESP8266 project I created](https://github.com/drewlong/ESPCommander.git).
 
 ## Usage/Examples
 
